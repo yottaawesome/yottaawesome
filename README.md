@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello, is this thing on? 👋
+
+### 💬 A little about me...
+
+I'm a software engineer with close to fifteen years of experience in the software engineering industry. Over the years, I've either worked or played with everything from low-level C++ and Win32 system programming, to front-end development with HTML and JavaScript, to server-side development with .NET and C#, to game development with Unity and Unreal engines, to machine learning with Python.
+
+### 🔭 I’m currently working on ...
+
+Refreshing my linear algrebra and getting familiar with the Unreal Engine for game development. Also slowly working towards more AWS certifications.
 
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
