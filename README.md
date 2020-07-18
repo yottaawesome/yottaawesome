@@ -2,11 +2,17 @@
 
 ### 💬 A little about me...
 
-I'm a software engineer with close to fifteen years of experience in the software engineering industry. Over the years, I've either worked or played with everything from low-level C++ and Win32 system programming, to front-end development with HTML and JavaScript, to server-side development with .NET and C#, to game development with Unity and Unreal engines, to machine learning with Python.
+I'm an Australian software engineer with a restless mind and close to fifteen years of experience in the software industry. Over the years, I've either worked, played with, or developed an interest in everything from low-level C++ and Win32 system programming, to front-end development with HTML and JavaScript, to server-side development with .NET and C#, to game development with Unity and Unreal engines, to machine learning with Python.
 
-### 🔭 I’m currently working on ...
+### 🌱 I’m currently learning...
 
-Refreshing my linear algrebra and getting familiar with the Unreal Engine for game development. Also slowly working towards more AWS certifications.
+Refreshing my linear algrebra and getting familiar with the Unreal Engine in the hopes of eventually developing and publishing small games. I'm also slowly working towards attaining more AWS certifications. Oh, and trying to keep up my fitness and not become a lardball during lockdown.
+
+### 💬 My favourite quote...
+
+> No man ever steps in the same river twice, for it's not the same river and he's not the same man.
+
+-Heraclitus
 
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
