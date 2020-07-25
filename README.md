@@ -6,7 +6,7 @@ I'm an Australian software engineer with a restless mind and close to fifteen ye
 
 ### 🌱 I’m currently learning...
 
-Refreshing my linear algrebra and getting familiar with the Unreal Engine in the hopes of eventually developing and publishing small games. I'm also slowly working towards attaining more AWS certifications. Oh, and trying to keep up my fitness and not become a lardball during lockdown.
+Refreshing my linear algebra and getting familiar with the Unreal Engine in the hopes of eventually developing and publishing small games. I'm also slowly working towards attaining more AWS certifications. Oh, and trying to keep up my fitness and not become a lardball during lockdown.
 
 ### 💬 My favourite quote...
 
