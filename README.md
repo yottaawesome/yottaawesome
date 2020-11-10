@@ -16,7 +16,7 @@ Refreshing my linear algebra and getting familiar with the Unreal and Godot engi
 
 ### 📫 How to contact me...
 
-Email is the best way to contact me. I don't have a Facebook account, and I don't use Twitter except for posting the occasional link. I do accept LinkedIn connections, but I'm otherwise not active on there.
+Email is the best way to contact me. I don't have a Facebook account, and I don't use Twitter except for posting the occasional link. I do accept LinkedIn connections, but I'm otherwise not active on there. Please don't contact me to endorse or support anything related to politics -- I'm not interested.
 
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
