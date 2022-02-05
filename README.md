@@ -4,16 +4,6 @@
 
 I'm an Australian software engineer with a restless mind and close to fifteen years of experience in the software industry. Over the years, I've either worked on, played with, or developed an interest in everything from low-level C++ and Win32 system programming, to front-end development with HTML and JavaScript, to server-side development with .NET and C#, to game development with Unity and Unreal engines, to machine learning with Python.
 
-### 🌱 I’m currently learning...
-
-Refreshing my linear algebra and getting familiar with the Unreal and Godot engines in the hopes of eventually developing and publishing small 3D and 2D games. I'm also slowly working towards attaining more AWS certifications. I've also started learning a bit more about video editing for my own [YouTube channel](https://www.youtube.com/channel/UCU-V27Ja03dd8Xm-JJJz7nQ/featured) (new videos will be uploaded when I'm less lazy).
-
-### 💬 My favourite quote...
-
-> No man ever steps in the same river twice, for it's not the same river and he's not the same man.
-
--Heraclitus
-
 ### 📫 How to contact me...
 
 Email is the best way to contact me. I don't have a Facebook account, and I rarely use Twitter.
