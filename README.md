@@ -4,10 +4,6 @@
 
 I'm an Australian software engineer with a restless mind and close to fifteen years of experience in the software industry. Over the years, I've either worked on, played with, or developed an interest in everything from low-level C++ and Win32 system programming, to front-end development with HTML and JavaScript, to server-side development with .NET and C#, to game development with Unity and Unreal engines, to machine learning with Python.
 
-### 📫 How to contact me...
-
-Email is the best way to contact me. I don't have a Facebook account, and I rarely use Twitter.
-
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
