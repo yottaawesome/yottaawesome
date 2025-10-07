@@ -1,6 +1,6 @@
 ## 👋 A little about me...
 
-I'm an Australian software engineer with a restless mind and fifteen years of experience in the software industry. I've done everything from web apps to desktop apps to databases, and more recently, I've been doing a lot of C++.
+I'm an Australian software engineer with a restless mind and close to twenty years of experience in the software industry. I've worked on everything from web apps, desktop apps, databases and even drivers. Recently, I've been doing a lot of C++ in various domains.
 
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
