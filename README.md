@@ -1,6 +1,6 @@
 ## 👋 A little about me...
 
-An Australian software engineer with a restless mind and close to twenty years of experience in the software industry. Ultramodern C++ is my jam.
+An Australian software engineer with a restless mind and twenty years of experience in the software industry. Ultramodern C++ is my jam.
 
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
