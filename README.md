@@ -1,7 +1,6 @@
 ## 👋 A little about me...
 
-An Australian software engineer with a restless mind and twenty years of experience in the software industry. Ultramodern C++ is my jam, but also proficient with C#, as well as TypeScript and JavaScript. Also learning Go and Rust on the side.
-
+| Ultramodern C++ | Computer graphics | Native programming | C# | TypeScript | Rust | Go | React | Databases
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
