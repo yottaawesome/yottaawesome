@@ -1,6 +1,6 @@
 ## 👋 A little about me...
 
-| Ultramodern C++ | Computer graphics | Native programming | C# | TypeScript | Rust | Go | React | Databases
+Ultramodern C++, computer graphics, native programming, C#, TypeScript, Rust, Go, React, Databases and more!
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
