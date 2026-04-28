@@ -7,8 +7,8 @@ Australian software engineer. Close to 20 years of experience with very broad ex
 Things I'm learning right now:
 
 * 3D graphics APIs, especially Vulkan;
-* Creating small native games;
 * 3D modelling, specifically Maya and 3DSMax;
+* Creating small native games;
 * New languages: Go, Rust, Kotlin;
 * Refreshing my Web dev knowledge.
     
