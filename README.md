@@ -8,6 +8,7 @@ Things I'm learning right now:
 
 * 3D graphics APIs, especially Vulkan;
 * 3D modelling, specifically Maya and 3DSMax;
+* 2D graphics APIs, including D2D;
 * Creating small native games;
 * New languages: Go, Rust, Kotlin;
 * Refreshing my Web dev knowledge.
