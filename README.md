@@ -11,8 +11,7 @@ Some stuff I'm learning now:
 * 2D graphics APIs, including D2D;
 * Creating small native games;
 * New languages: Go, Rust, Kotlin;
-* Refreshing my Web dev knowledge;
-* LLM-based apps.
+* Refreshing my Web dev knowledge.
     
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
