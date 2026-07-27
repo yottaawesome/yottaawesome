@@ -6,12 +6,10 @@ Australian software engineer. Close to 20 years of experience with very broad ex
 
 Some stuff I'm learning now:
 
-* 3D graphics APIs, especially Vulkan;
+* 3D graphics APIs: D3D11, D3D12, Vulkan;
 * 3D modelling, specifically Maya and 3DSMax;
-* 2D graphics APIs, including D2D;
-* Creating small native games;
-* New languages: Go, Rust, Kotlin;
-* Refreshing my Web dev knowledge.
+* 2D graphics APIs, mainly D2D;
+* Creating small native games.
     
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
