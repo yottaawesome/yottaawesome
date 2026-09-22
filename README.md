@@ -9,7 +9,7 @@ Some stuff I'm doing now:
 * Learning 3D graphics APIs: D3D11, D3D12, Vulkan;
 * Learning 3D modelling, specifically Maya and 3DSMax;
 * Learning 2D graphics APIs, mainly D2D;
-* Working on products.
+* Working on a startup.
     
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
