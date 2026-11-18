@@ -11,7 +11,7 @@ Some stuff I'm doing now:
 * Learning 2D graphics APIs, mainly D2D;
 * Working on a startup.
 
-Not an anti-AI engineer, but I believe in understanding over speed.
+Not an anti-AI engineer, but I believe in understanding over speed, and writing code manually is still the best way to understand it.
 
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
