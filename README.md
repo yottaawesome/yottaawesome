@@ -10,7 +10,9 @@ Some stuff I'm doing now:
 * Learning 3D modelling, specifically Maya and 3DSMax;
 * Learning 2D graphics APIs, mainly D2D;
 * Working on a startup.
-    
+
+Not an anti-AI engineer, but I believe in understanding over speed.
+
 <!--
 **yottaawesome/yottaawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
